@@ -18,6 +18,9 @@ dl-genai-project-26-t2/
 ├── milestones/
 |
 ├── data/
+│   ├── faiss_index/
+│   │   ├── index.faiss
+│   │   └── index.pkl
 │   ├── train.csv
 │   ├── test.csv
 │   └── sample_submission.csv

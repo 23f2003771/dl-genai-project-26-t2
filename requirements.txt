@@ -1,0 +1,15 @@
+gensim
+wandb
+wikipedia-api
+langchain
+langchain-text-splitters
+langchain-community
+langchain-huggingface
+faiss-cpu
+transformers
+bitsandbytes
+huggingface_hub
+numpy
+pandas
+torch
+scikit-learn

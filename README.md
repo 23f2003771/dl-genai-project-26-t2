@@ -15,7 +15,7 @@ dl-genai-project-26-t2/
 │
 ├── reports/
 │
-├── models/
+├── milestones/
 |
 ├── data/
 │   ├── train.csv

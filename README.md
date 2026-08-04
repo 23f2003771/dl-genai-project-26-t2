@@ -9,14 +9,6 @@ This competition focuses on building AI/ML models that can solve challenging mul
 ```
 dl-genai-project-26-t2/
 │
-├── notebooks/
-│   
-├── src/
-│
-├── reports/
-│
-├── milestones/
-|
 ├── data/
 │   ├── faiss_index/
 │   │   ├── index.faiss
@@ -25,8 +17,22 @@ dl-genai-project-26-t2/
 │   ├── test.csv
 │   └── sample_submission.csv
 │
-├── requirements.txt
-└── README.md
+├── notebooks/
+│   └── DL-23f2003771-notebook-t22026.ipynb
+│
+├── src/
+│   ├── __init__.py
+│   ├── preprocessing.py
+│   ├── models.py
+│   └── rag_pipeline.py
+│
+├── reports/
+│
+├── milestones/
+│
+├── app.py
+├── README.md
+└── requirements.txt
 ```
 
 *Shikhar Singh*<br>
